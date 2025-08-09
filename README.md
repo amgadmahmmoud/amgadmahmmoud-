@@ -1,18 +1,9 @@
-<!-- Banner or Image Section -->
-<!-- <div align="center">
- <img
-    src="https://render.gitanimals.org/farms/amgadmahmoud"
-    width="800"
-    height="250"
-  />
-</div> -->
-
 ### Hi there 👋, I'm **Amgad Mahmoud**! 
 
-💻 **Web Developer** | 🌍 **Language Learner** (English, Spanish, German) | ✍️ **Fiction & Fantasy Writer**  
+💻 **Front-End Web Developer (in progress)** | 🌍 **Language Learner** (English, Spanish, German) | ✍️ **Fiction & Fantasy Writer**  
 
 Passionate about ***coding***, ***storytelling***, and ***languages***.  
-Currently improving my web development skills and exploring creative writing techniques.
+Currently focusing on mastering web development fundamentals and building creative projects.
 
 ---
 
@@ -25,15 +16,19 @@ Currently improving my web development skills and exploring creative writing tec
 ---
 
 ## 📦 Skills
-<img align='center' src="https://skillicons.dev/icons?i=git,github,html,css,js,react,nodejs,express,tailwind,bootstrap,python,php,mysql">
+<img align='center' src="https://skillicons.dev/icons?i=html,css,js,git,github">
+
+- **HTML5** → Structure & semantic web design  
+- **CSS3** → Styling & responsive design  
+- **JavaScript** → Currently learning (interactivity & DOM manipulation basics)  
 
 ---
 
 ## 📚 About Me
-- 🔭 Currently working on: Personal web projects & story writing
-- 🌱 Learning: Advanced CSS, JavaScript frameworks, and backend basics
+- 🔭 Currently working on: Small front-end projects & personal website
+- 🌱 Learning: JavaScript fundamentals & problem solving
 - 📖 Languages: Arabic (Native), English, Spanish, German
-- 🎯 Goal: Build impactful web applications & publish a fantasy novel
+- 🎯 Goal: Become a professional front-end developer & publish my fantasy novel
 
 ---
 
@@ -43,8 +38,4 @@ Currently improving my web development skills and exploring creative writing tec
 
 ---
 
-<!-- Optional Coding Streak -->
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=amgadmahmoud&theme=tokyonight&hide_border=true)
-
----
 ✍️ *"Code the future, write the worlds you imagine."*
